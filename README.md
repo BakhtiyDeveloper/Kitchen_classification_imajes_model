@@ -1,1 +1,1 @@
-# Kitchen_classification_imajes_model
+#Classification model of kitchen appliances, home appliances, tableware and kitchen utensils using artificial intelligence
